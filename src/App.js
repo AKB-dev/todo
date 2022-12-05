@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { nanoid } from "nanoid";
-import FilterButton from "./components/FilterButton";
 import Form from "./components/Form";
 import Todo from "./components/todo"
 
